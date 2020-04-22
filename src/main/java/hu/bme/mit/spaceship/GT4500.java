@@ -83,7 +83,7 @@ public class GT4500 implements SpaceShip {
         }
 
         break;
-    }
+    }//branch-B változtatás
 
     return firingSuccess;
   }
